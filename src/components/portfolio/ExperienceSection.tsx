@@ -7,7 +7,7 @@ const experiences = [
   {
     title: "Part-Time Software Developer",
     company: "Shopiz, Canada",
-    period: "May 2025 - Present",
+    period: "May 2025 - December 2025",
     description:
       `- Engineered a custom Shopify integration for order creation and invoicing, implementing access controls to protect
 sensitive data and reduce recurring subscription costs by $6,000+ annually.\n
