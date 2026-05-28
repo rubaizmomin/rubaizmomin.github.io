@@ -54,10 +54,8 @@ access and HMAC authentication, dynamic live chat availability and payment-speci
     companyLogo: seequentLogo,
     period: "September 2022 - December 2022",
     description:
-      `- Debugged 312 automation failures and authored 73 GUI test cases in Ranorex using C# .NET, reducing
-regression failures to 0% and increasing test coverage by 4% for Oasis Montaj 2022.2.0.\n
-- Improved CI pipeline reliability by redesigning Selenium-based login automation to perform live authentication instead of
-relying on cached sessions, achieving 100% consistent pipeline execution.`,
+      `- Debugged 312 automation failures and authored 73 GUI test cases in Ranorex using C# .NET, reducing regression failures to 0% and increasing test coverage by 4% for Oasis Montaj 2022.2.0.\n
+- Improved CI pipeline reliability by redesigning Selenium-based login automation to perform live authentication instead of relying on cached sessions, achieving 100% consistent pipeline execution.`,
     technologies: ["C#", ".NET", "Ranorex", "VSphere", "Bamboo"],
   },
     {
